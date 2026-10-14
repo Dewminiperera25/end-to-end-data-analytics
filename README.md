@@ -23,3 +23,8 @@ This project demonstrates an end-to-end data analytics workflow using Microsoft 
 
 ## Author
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
+
+## Dashboard Preview
+
+![Financial Performance Analysis Dashboard](powebi.png)
+
